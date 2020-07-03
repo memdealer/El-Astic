@@ -1,8 +1,8 @@
 # El-Astic
 
-ElasticSearch monitoring tool for Check_MK.
-
--- Has capability to match/ignore specific events in Index
--- Configparser friendly
--- Can be extended and used as a template
+ElasticSearch monitoring tool for Check_MK. \n
+\n
+-- Has capability to match/ignore specific events in Index \n
+-- Configparser friendly \n
+-- Can be extended and used as a template \n
 
